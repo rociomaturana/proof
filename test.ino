@@ -12,7 +12,10 @@ if(lectura == "mi_contraseña")
   }
 else{
   Serial.println("Contraseña incorrecta");
+
   delay(1000);
      }
  }
 }
+//manso laburo profe
+//manso corte de pelo profe
